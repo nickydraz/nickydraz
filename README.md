@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:badges-->
-[![GitHub Actions](https://images.credly.com/size/80x80/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/2ea19728-5677-4f44-89ab-6d98166cba8b "GitHub Actions")
+[![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/2ea19728-5677-4f44-89ab-6d98166cba8b "GitHub Actions")
 <!--END_SECTION:badges-->
