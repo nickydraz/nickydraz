@@ -16,4 +16,6 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: "nicholas-drazenovic"
+          BADGE_SIZE: 55
+          COMMIT_MESSAGE: "Synced badges from Credly"
         
